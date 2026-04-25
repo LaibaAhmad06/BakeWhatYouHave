@@ -1,0 +1,41 @@
+// All unique ingredients across all recipes, sorted alphabetically.
+// Used to populate the ingredient selector panel.
+
+const ingredients = [
+  "agar-agar",
+  "all-purpose flour",
+  "baking powder",
+  "baking soda",
+  "banana",
+  "brown sugar",
+  "butter",
+  "chocolate chips",
+  "cinnamon",
+  "cocoa powder",
+  "coconut oil",
+  "condensed milk",
+  "cream cheese",
+  "dark chocolate",
+  "digestive biscuits",
+  "egg",
+  "fresh strawberries",
+  "gelatin",
+  "heavy cream",
+  "instant yeast",
+  "mango",
+  "mango juice",
+  "marie biscuits",
+  "milk",
+  "powdered sugar",
+  "ripe bananas",
+  "salt",
+  "strawberry jam",
+  "sugar",
+  "vanilla extract",
+  "vegetable oil",
+  "warm milk",
+  "whipped cream",
+  "white chocolate",
+];
+
+export default ingredients;
