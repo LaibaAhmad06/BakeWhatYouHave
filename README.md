@@ -6,7 +6,8 @@ A clean, responsive React app that helps you find recipes based on ingredients y
 
 ## 📸 Preview
 
-> Add a screenshot or screen recording of your app here.
+<img width="1919" height="1127" alt="image" src="https://github.com/user-attachments/assets/ff1b0d4e-f05e-4bdf-bd88-361f5ef573b3" />
+
 
 ---
 
